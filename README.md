@@ -1,4 +1,4 @@
-# AMAZON-SALES-ANALYSIS FOR THE DASHBOARD
+# AMAZON-SALES-ANALYSIS FOR THE DASHBOARD TO EXCEL
 Analyze the data of amazon sales through excel
  Amazon For Data Analyzing Use by Tool Filter,vlookup,Remove Duplicates,Replace,Pivot 
 Table{Count,Sum,Pivot Filter,Sorts,Reports Layout,Subtotals,Collapse Field, Change Data 
